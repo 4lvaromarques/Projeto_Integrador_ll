@@ -27,16 +27,8 @@ O grande diferencial deste ecossistema é a sua **arquitetura centralizada de po
 
 ---
 
-##  Como Funciona a Arquitetura de Expansão
 
-```mermaid
-graph TD
-    A[Mural de Informática - CTBJ] --> B(Módulo Frontend - Clientes)
-    A --> C(Módulo Backend - APIs)
-    A --> D(Módulo de Banco de Dados)
-    B --> B1[Feed Geral de Softwares]
-    B --> B2[Formulário de Submissão]
-```
+##  Estrutura otimizada
 
 O banco de dados utiliza uma estrutura otimizada para o colégio. Isso garante que as informações dos alunos do CTBJ fiquem consolidadas em uma base robusta, permitindo consultas rápidas e geração de relatórios de desempenho acadêmico em TI.
 
