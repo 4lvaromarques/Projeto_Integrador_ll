@@ -94,5 +94,3 @@ stateDiagram-v2
 | `[DOC-02]` | Documentação da Etapa 2 | Criação deste relatório de arquitetura |
 
 ---
-
-Pronto! Ao salvar (Commit), o GitHub vai transformar isso automaticamente em **2 diagramas visuais e 1 tabela perfeita**. Me diga se deu certo!
